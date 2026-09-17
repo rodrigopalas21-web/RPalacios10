@@ -1,4 +1,3 @@
 # aura
 a
 b
-c
