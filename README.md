@@ -24,11 +24,6 @@
 
 ### 📊 Estadísticas y Actividad
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rodrigopalas21-web&show_icons=true&theme=synthwave&hide_border=true&include_all_commits=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigopalas21-web&layout=compact&theme=synthwave&hide_border=true" width="48%" />
-</div>
-
 <br/>
 
 <div align="center">
