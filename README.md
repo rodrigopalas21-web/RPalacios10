@@ -1,4 +1,3 @@
- <!-- Botones: reemplaza las URLs --> <p align="center"> <a href="https://TU_SITIO.com"><img src="https://img.shields.io/badge/SITIO-TU_SITIO.COM-9b3a14?style=for-the-badge&logo=safari&logoColor=white" alt="Sitio" /></a> <a href="https://www.linkedin.com/in/rodrigo-palacios-430a29392"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://x.com/Rodrigo21162844"><img src="https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> </p>
 <div align="center">
 
   <!-- BANNER GRANDE GENERADO POR SVG (No requiere subir archivo) -->
@@ -6,20 +5,9 @@
 
   <!-- SUBTÍTULO DINÁMICO -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F75C7E&center=true&vCenter=true&width=500&lines=Founder+%7C+Developer;Tu+rol+%C2%B7+Lo+que+construyes;Transformando+Ideas+en+C%C3%B3digo" alt="Typing SVG" />
-
+<!-- Botones: reemplaza las URLs --> <p align="center"> <a href="https://TU_SITIO.com"><img src="https://img.shields.io/badge/SITIO-TU_SITIO.COM-9b3a14?style=for-the-badge&logo=safari&logoColor=white" alt="Sitio" /></a> <a href="https://www.linkedin.com/in/rodrigo-palacios-430a29392"><img src="https://img.shields.io/badge/LINKEDIN-0a66c2?style=for-the-badge" alt="LinkedIn" /></a> <a href="https://x.com/Rodrigo21162844"><img src="https://img.shields.io/badge/X-1a1a1a?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a> </p>
   <br/><br/>
 
-  <!-- BOTONES / BADGES GRANDES -->
-  <a href="https://tu-sitio.com">
-    <img src="https://img.shields.io/badge/SITIO_WEB-tu--sitio.com-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/tu-usuario">
-    <img src="https://img.shields.io/badge/LINKEDIN-Rodrigo_Palacios-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://x.com/tu-usuario">
-    <img src="https://img.shields.io/badge/X-@tu__usuario-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
 </div>
