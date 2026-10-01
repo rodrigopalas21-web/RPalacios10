@@ -35,4 +35,3 @@
 <div align="center">
   <sub>Diseñado para destacar en GitHub · Rodrigo Palacios</sub>
 </div>
-sd
