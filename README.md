@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
   <!-- BANNER GRANDE GENERADO POR SVG (No requiere subir archivo) -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4a00e0,100:8e2de2&height=220&section=header&text=Rodrigo%20Palacios&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
   <!-- SUBTÍTULO DINÁMICO -->
@@ -36,3 +36,4 @@
   <sub>Diseñado para destacar en GitHub · Rodrigo Palacios</sub>
 </div>
 
+r
